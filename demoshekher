@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Untitled Page
+</title>
+    <style type="text/css">
+        .style1
+        {
+            font-family: "Arial Unicode MS";
+        }
+        .style2
+        {
+            font-size: small;
+        }
+    </style>
+<link href="App_Themes/ThemeText/cssClassFile.css" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form name="form1" method="post" action="showStatushome.aspx?application_no=231400030043559" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQ1NzM0ODg4NA8WBB4EYXBubwUPMjMxNDAwMDMwMDQzNTU5HgdkZXR2aWV3Mo4gAAEAAAD/////AQAAAAAAAAAMAgAAAE5TeXN0ZW0uRGF0YSwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAABNTeXN0ZW0uRGF0YS5EYXRhU2V0AwAAABdEYXRhU2V0LlJlbW90aW5nVmVyc2lvbglYbWxTY2hlbWELWG1sRGlmZkdyYW0DAQEOU3lzdGVtLlZlcnNpb24CAAAACQMAAAAGBAAAANgVPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+DQo8eHM6c2NoZW1hIGlkPSJOZXdEYXRhU2V0IiB4bWxucz0iIiB4bWxuczp4cz0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOm1zZGF0YT0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp4bWwtbXNkYXRhIj4NCiAgPHhzOmVsZW1lbnQgbmFtZT0iTmV3RGF0YVNldCIgbXNkYXRhOklzRGF0YVNldD0idHJ1ZSIgbXNkYXRhOlVzZUN1cnJlbnRMb2NhbGU9InRydWUiPg0KICAgIDx4czpjb21wbGV4VHlwZT4NCiAgICAgIDx4czpjaG9pY2UgbWluT2NjdXJzPSIwIiBtYXhPY2N1cnM9InVuYm91bmRlZCI+DQogICAgICAgIDx4czplbGVtZW50IG5hbWU9ImRldHZpZXciPg0KICAgICAgICAgIDx4czpjb21wbGV4VHlwZT4NCiAgICAgICAgICAgIDx4czpzZXF1ZW5jZT4NCiAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iYXBwbGljYXRpb25ubyIgdHlwZT0ieHM6c3RyaW5nIiBtc2RhdGE6dGFyZ2V0TmFtZXNwYWNlPSIiIG1pbk9jY3Vycz0iMCIgLz4NCiAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0ibmFtZSIgdHlwZT0ieHM6c3RyaW5nIiBtc2RhdGE6dGFyZ2V0TmFtZXNwYWNlPSIiIG1pbk9jY3Vycz0iMCIgLz4NCiAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iSE5PIiB0eXBlPSJ4czpzdHJpbmciIG1zZGF0YTp0YXJnZXROYW1lc3BhY2U9IiIgbWluT2NjdXJzPSIwIiAvPg0KICAgICAgICAgICAgICA8eHM6ZWxlbWVudCBuYW1lPSJwbW9oYWxsYSIgdHlwZT0ieHM6c3RyaW5nIiBtc2RhdGE6dGFyZ2V0TmFtZXNwYWNlPSIiIG1pbk9jY3Vycz0iMCIgLz4NCiAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iZ3JhbSIgdHlwZT0ieHM6c3RyaW5nIiBtc2RhdGE6dGFyZ2V0TmFtZXNwYWNlPSIiIG1pbk9jY3Vycz0iMCIgLz4NCiAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0idGVoc2lsIiB0eXBlPSJ4czpzdHJpbmciIG1zZGF0YTp0YXJnZXROYW1lc3BhY2U9IiIgbWluT2NjdXJzPSIwIiAvPg0KICAgICAgICAgICAgICA8eHM6ZWxlbWVudCBuYW1lPSJEaXN0cmljdCIgdHlwZT0ieHM6c3RyaW5nIiBtc2RhdGE6dGFyZ2V0TmFtZXNwYWNlPSIiIG1pbk9jY3Vycz0iMCIgLz4NCiAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iQXBwbGljYXRpb25EdCIgdHlwZT0ieHM6ZGF0ZVRpbWUiIG1zZGF0YTp0YXJnZXROYW1lc3BhY2U9IiIgbWluT2NjdXJzPSIwIiAvPg0KICAgICAgICAgICAgICA8eHM6ZWxlbWVudCBuYW1lPSJBcHBsaWNhdGlvblN0YXR1cyIgdHlwZT0ieHM6c3RyaW5nIiBtc2RhdGE6dGFyZ2V0TmFtZXNwYWNlPSIiIG1pbk9jY3Vycz0iMCIgLz4NCiAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iY3NjY29kZSIgdHlwZT0ieHM6c3RyaW5nIiBtc2RhdGE6dGFyZ2V0TmFtZXNwYWNlPSIiIG1pbk9jY3Vycz0iMCIgLz4NCiAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iZmF0X2h1c2IiIHR5cGU9InhzOnN0cmluZyIgbXNkYXRhOnRhcmdldE5hbWVzcGFjZT0iIiBtaW5PY2N1cnM9IjAiIC8+DQogICAgICAgICAgICAgIDx4czplbGVtZW50IG5hbWU9InNlcnZpY2VfbmFtZSIgdHlwZT0ieHM6c3RyaW5nIiBtc2RhdGE6dGFyZ2V0TmFtZXNwYWNlPSIiIG1pbk9jY3Vycz0iMCIgLz4NCiAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iY2FzdGNvZGUiIHR5cGU9InhzOnN0cmluZyIgbXNkYXRhOnRhcmdldE5hbWVzcGFjZT0iIiBtaW5PY2N1cnM9IjAiIC8+DQogICAgICAgICAgICAgIDx4czplbGVtZW50IG5hbWU9InN1YmNhc3Rjb2RlIiB0eXBlPSJ4czpzdHJpbmciIG1zZGF0YTp0YXJnZXROYW1lc3BhY2U9IiIgbWluT2NjdXJzPSIwIiAvPg0KICAgICAgICAgICAgICA8eHM6ZWxlbWVudCBuYW1lPSJyZWFzb25fb2ZfcmVqZWN0aW9uIiB0eXBlPSJ4czpzdHJpbmciIG1zZGF0YTp0YXJnZXROYW1lc3BhY2U9IiIgbWluT2NjdXJzPSIwIiAvPg0KICAgICAgICAgICAgICA8eHM6ZWxlbWVudCBuYW1lPSJBcHBNYXJrVG9PZmZfQ29kZSIgdHlwZT0ieHM6c3RyaW5nIiBtc2RhdGE6dGFyZ2V0TmFtZXNwYWNlPSIiIG1pbk9jY3Vycz0iMCIgLz4NCiAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iZGlzcG9kdCIgdHlwZT0ieHM6ZGF0ZVRpbWUiIG1zZGF0YTp0YXJnZXROYW1lc3BhY2U9IiIgbWluT2NjdXJzPSIwIiAvPg0KICAgICAgICAgICAgICA8eHM6ZWxlbWVudCBuYW1lPSJtb2JpbGUiIHR5cGU9InhzOnN0cmluZyIgbXNkYXRhOnRhcmdldE5hbWVzcGFjZT0iIiBtaW5PY2N1cnM9IjAiIC8+DQogICAgICAgICAgICAgIDx4czplbGVtZW50IG5hbWU9ImFwcGR0IiB0eXBlPSJ4czpzdHJpbmciIG1zZGF0YTp0YXJnZXROYW1lc3BhY2U9IiIgbWluT2NjdXJzPSIwIiAvPg0KICAgICAgICAgICAgICA8eHM6ZWxlbWVudCBuYW1lPSJyZW1hcmtzIiB0eXBlPSJ4czpzdHJpbmciIG1zZGF0YTp0YXJnZXROYW1lc3BhY2U9IiIgbWluT2NjdXJzPSIwIiAvPg0KICAgICAgICAgICAgICA8eHM6ZWxlbWVudCBuYW1lPSJhcHBTb3VyY2UiIHR5cGU9InhzOnN0cmluZyIgbXNkYXRhOnRhcmdldE5hbWVzcGFjZT0iIiBtaW5PY2N1cnM9IjAiIC8+DQogICAgICAgICAgICA8L3hzOnNlcXVlbmNlPg0KICAgICAgICAgIDwveHM6Y29tcGxleFR5cGU+DQogICAgICAgIDwveHM6ZWxlbWVudD4NCiAgICAgIDwveHM6Y2hvaWNlPg0KICAgIDwveHM6Y29tcGxleFR5cGU+DQogIDwveHM6ZWxlbWVudD4NCjwveHM6c2NoZW1hPgYFAAAAjQg8ZGlmZmdyOmRpZmZncmFtIHhtbG5zOm1zZGF0YT0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp4bWwtbXNkYXRhIiB4bWxuczpkaWZmZ3I9InVybjpzY2hlbWFzLW1pY3Jvc29mdC1jb206eG1sLWRpZmZncmFtLXYxIj48TmV3RGF0YVNldD48ZGV0dmlldyBkaWZmZ3I6aWQ9ImRldHZpZXcxIiBtc2RhdGE6cm93T3JkZXI9IjAiPjxhcHBsaWNhdGlvbm5vPjIzMTQwMDAzMDA0MzU1OTwvYXBwbGljYXRpb25ubz48bmFtZT7gpKjgpL/gpKTgpYfgpLYg4KS44KS+4KS5L25pdGVzaCBzYWggPC9uYW1lPjxITk8+NDEsPC9ITk8+PHBtb2hhbGxhPjQxIOCkl+CksuClgCDgpKggLSAwMSAg4KSq4KS+4KS4ICDgpJXgpYcg4KSq4KS+4KS4IOCktuCkvuCkguCkpOCkvyDgpKjgpJfgpLAg4KSX4KS+4KWb4KS/4KSv4KS+4KSs4KS+4KSmLDwvcG1vaGFsbGE+PGdyYW0gLz48dGVoc2lsPjAwMDI8L3RlaHNpbD48RGlzdHJpY3Q+MDA5PC9EaXN0cmljdD48QXBwbGljYXRpb25EdD4yMDIzLTA2LTA4VDAwOjAwOjAwKzA1OjMwPC9BcHBsaWNhdGlvbkR0PjxBcHBsaWNhdGlvblN0YXR1cz5GPC9BcHBsaWNhdGlvblN0YXR1cz48Y3NjY29kZT4yMzAwMDkzODkxPC9jc2Njb2RlPjxmYXRfaHVzYj4g4KS54KSw4KWH4KSo4KSm4KWN4KSwIOCkuOCkvuCkuTwvZmF0X2h1c2I+PHNlcnZpY2VfbmFtZT7gpJzgpL7gpKTgpL8g4KSq4KWN4KSw4KSu4KS+4KSjIOCkquCkpOCljeCksDwvc2VydmljZV9uYW1lPjxjYXN0Y29kZT4xPC9jYXN0Y29kZT48c3ViY2FzdGNvZGU+MDgwPC9zdWJjYXN0Y29kZT48QXBwTWFya1RvT2ZmX0NvZGU+MDA5MTAwMTA8L0FwcE1hcmtUb09mZl9Db2RlPjxtb2JpbGU+ODg4MjEzMTk2NTwvbW9iaWxlPjxhcHBkdD4wOC8wNi8yMDIzPC9hcHBkdD48cmVtYXJrcyAvPjxhcHBTb3VyY2U+4KS44KWN4KSw4KWL4KSkOiDgpLjgpL/gpJ/gpL/gpJzgpKggKOCkiC3gpLjgpL7gpKXgpYApIOCkteClh+CkrCDgpKrgpYvgpLDgpY3gpJ/gpLI8L2FwcFNvdXJjZT48L2RldHZpZXc+PC9OZXdEYXRhU2V0PjwvZGlmZmdyOmRpZmZncmFtPgQDAAAADlN5c3RlbS5WZXJzaW9uBAAAAAZfTWFqb3IGX01pbm9yBl9CdWlsZAlfUmV2aXNpb24AAAAACAgICAIAAAAAAAAA//////////8LFgICAw9kFgICAQ9kFggCAQ9kFgJmD2QWAgIDDw8WAh4LTmF2aWdhdGVVcmwFHX4vQ2VydGlmaWNhdGUvY2VydFZlcmlmeS5hc3B4ZGQCAw9kFgJmD2QWAgIBDw8WAh4EVGV4dAXVAeCkhuCkteClh+CkpuCkqCDgpKrgpKTgpY3gpLAg4KSc4KS+4KSB4KSaIOCkquCljeCksOCkleCljeCksOCkv+Ckr+CkviDgpK7gpYfgpIIg4KS54KWIIOCkpOCkpeCkviDgpKjgpL/gpLbgpL7gpILgpKTgpKTgpY3gpK/gpL7gpJfgpYAsTEVLSFBBTCDgpJXgpYsg4KSF4KSX4KWN4KSw4KWH4KS24KS/4KSkIOCkleCksCDgpKbgpL/gpK/gpL4g4KSX4KSv4KS+IOCkueCliCB8IGRkAgUPZBYCZg9kFgQCAQ88KwAPAwAPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnQCAWQKEBYBAgQWATwrAAUBABYCHgdWaXNpYmxlaBYBZg4UKwAAFgJmD2QWDAIBD2QWAgIBDw8WAh8DBSzgpJzgpL7gpKTgpL8g4KSq4KWN4KSw4KSu4KS+4KSjIOCkquCkpOCljeCksGRkAgIPZBYCAgEPDxYCHwMFDzIzMTQwMDAzMDA0MzU1OWRkAgMPZBYCAgEPDxYCHwMFJeCkqOCkv+CkpOClh+CktiDgpLjgpL7gpLkvbml0ZXNoIHNhaCBkZAIED2QWAgIBDw8WAh8DBSAg4KS54KSw4KWH4KSo4KSm4KWN4KSwIOCkuOCkvuCkuWRkAgUPZBYCAgEPDxYCHwMFBiZuYnNwO2RkAgYPDxYCHwZoZGQCBQ8WAh8GaGQCBw9kFgJmD2QWAgIBDxYCHglpbm5lcmh0bWwFU+CkuOCljeCksOCli+CkpDog4KS44KS/4KSf4KS/4KSc4KSoICjgpIgt4KS44KS+4KSl4KWAKSDgpLXgpYfgpKwg4KSq4KWL4KSw4KWN4KSf4KSyZBgBBQxEZXRhaWxzVmlldzEPFCsAB2RkZGRkFgACAWTcHvTCHmPAjE4zr5Mh3mP/jCGzBA==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAJpb5cuSv+FG2FetXccB2xQtTfNpOz0CH4vKngBfzxDIQS9ekEQy3INl+rqf5VHv+IiffpT" />
+</div>
+    <br />
+    <br />
+           <div id="Tabcert" style="text-align: center;padding-left: 20%;">
+            <table  border="0" width="75%" style="border-right: #006699 thin solid; border-top: #006699 thin solid; border-left: #006699 thin solid; border-bottom: #006699 thin solid" >
+                <tr>
+                    <td colspan="2" style="text-align: center; background-color: #006699;"  >
+                        <strong ><span style="color: #ffffff; font-size: 14pt;" class="style1">आवेदन की स्थिति</span></strong></td>
+                </tr>
+            <tr id="Hiderow2">
+	<td colspan="2" style="text-align: center; background-color: #006699; height: 29px;">&nbsp;&nbsp;<a id="LinkButton1" href="javascript:__doPostBack(&#39;LinkButton1&#39;,&#39;&#39;)" style="font-family:Verdana;font-size:10pt;font-weight:bold;text-decoration:none;border: 1px solid #ffffff; color: #ffffff; font-family: 'Arial Unicode MS';">विवरण हेतु क्लिक करें </a>&nbsp;
+                        
+
+                        </td>
+</tr>
+
+               <tr id="Hiderow1">
+	<td style="height: 36px;" align="center" colspan="2">
+                        <span id="status" style="color:Black;font-size:Small;font-weight:bold;font-weight: bold; font-family: 'Arial Unicode MS'; font-size: small;">आवेदन पत्र जाँच प्रक्रिया में है तथा निशांतत्यागी,LEKHPAL को अग्रेशित कर दिया गया है | </span></td>
+</tr>
+
+                <tr id="Tr1">
+	<td align="center" colspan="2" valign="middle">
+                        &nbsp;<div>
+		<table cellspacing="0" cellpadding="3" rules="all" border="1" id="DetailsView1" style="background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;height:50px;width:90%;border-collapse:collapse;">
+			<tr style="color:White;background-color:#006699;font-weight:bold;">
+				<td colspan="2">
+                                <strong><span style="font-size: 11pt; font-family: Verdana; text-align: left"></span>
+                                </strong></SPAN>
+                            </td>
+			</tr><tr style="color:#000066;">
+				<td align="left" style="font-family:Verdana;font-size:Small;">सेवा का नाम</td><td align="left" style="font-family:Verdana;font-size:Small;">जाति प्रमाण पत्र</td>
+			</tr><tr style="color:#000066;">
+				<td align="left" style="font-family:Verdana;font-size:Small;width:40%;">आवेदन संख्या</td><td align="left" style="font-family:Verdana;font-size:Small;">231400030043559</td>
+			</tr><tr style="color:#000066;">
+				<td align="left" style="font-family:Verdana;font-size:Small;width:40%;">आवेदक का नाम</td><td align="left" style="font-family:Verdana;font-size:Small;">नितेश साह/nitesh sah </td>
+			</tr><tr style="color:#000066;">
+				<td align="left" style="font-family:Verdana;font-size:Small;width:40%;">पिता/पति का नाम</td><td align="left" style="font-family:Verdana;font-size:Small;"> हरेनद्र साह</td>
+			</tr>
+		</table>
+	</div>
+                        &nbsp;
+                        <br />
+                        <br />
+                        
+                        
+                    </td>
+</tr>
+
+                <tr id="Tr2">
+	<td align="center" colspan="2" valign="middle" style="font-family:Verdana;font-size:Small;text-align: right;padding-right:5px;color:darkgreen;">
+                        <span id="spnAppSource">स्रोत: सिटिजन (ई-साथी) वेब पोर्टल</span></td>
+</tr>
+
+                </table>
+        </div>
+        <div style="text-align: center">
+            
+        
+        </div>
+        <br /><br />
+        <div style="text-align:center;width: 70%;padding-left: 15%;font-size: 0.9rem;"><b>Disclaimer:</b> Content on this website is owned by Centre for e-Governance(CeG), Department of IT & Electronics, Govt. of Uttar Pradesh.Every effort has been made to ensure accuracy of data on this web site. However these need to be verified by and supplemented with documents issued finally by the concerned authorities. NIC will not be responsible for any decision or claim that is based on the basis of displayed data. This disclaimer applies to all the pages of this website.</div>
+    </form>
+</body>
+</html>
